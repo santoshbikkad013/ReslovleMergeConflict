@@ -8,6 +8,8 @@ public class ResolveMergeConflictApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ResolveMergeConflictApplication.class, args);
+	String msg="Gajendra";
+	
 	}
 
 }
