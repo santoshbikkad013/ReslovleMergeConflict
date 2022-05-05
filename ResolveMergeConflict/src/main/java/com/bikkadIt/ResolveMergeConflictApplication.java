@@ -8,7 +8,10 @@ public class ResolveMergeConflictApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ResolveMergeConflictApplication.class, args);
+
 		String name="Suraj";
+	String msg="Gajendra";
+	
 	}
 
 }
